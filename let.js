@@ -1,4 +1,4 @@
-// name จะเป็น object เดียวกันo
+// name จะเป็น object เดียวกัน
 var name ='Luna';
 if(true){
     var name ="Ken";
