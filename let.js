@@ -40,3 +40,17 @@ for(let i=0;i<10;i++){
 stack.forEach(function(f){
     f();
 })
+
+
+
+// ทดสอบความเข้าใจ
+console.log("\n-");
+var x = 0;
+for(var y=1;y<5;y++){
+    x=x+1;
+    console.log(y);
+}
+
+console.log("\n-");
+console.log(y);
+console.log(x);
