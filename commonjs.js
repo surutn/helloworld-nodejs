@@ -1,4 +1,4 @@
-import log from './logesmodule';
+const log = require('./logcommon');
 
 function add(a,b){
     log('add',a,b);
