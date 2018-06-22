@@ -70,3 +70,7 @@ console.log(mutate4);
 console.log(spliced3);
 
 
+// slice
+
+
+
